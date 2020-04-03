@@ -1,7 +1,7 @@
 These are the scripts specific to the **Deane 2020 Journal of Physiology** publication.
 
-Title: **Ketamine anesthesia induces gain enhancement via recurrent excitation in granular input layers of the auditory cortex**
-Authors: ***Katrina E. Deane, Michael G. K. Brunk, Andrew W. Curran, Marina M. Zempeltzi, Jing Ma, Xiao Lin, Francesca Abela, Sümeyra Aksit, Matthias Deliano, Frank W. Ohl, Max F. K. Happel***
+## Title: Ketamine anesthesia induces gain enhancement via recurrent excitation in granular input layers of the auditory cortex
+### Authors: ***Katrina E. Deane, Michael G. K. Brunk, Andrew W. Curran, Marina M. Zempeltzi, Jing Ma, Xiao Lin, Francesca Abela, Sümeyra Aksit, Matthias Deliano, Frank W. Ohl, Max F. K. Happel***
 DOI: TBA
 
 ***Please cite us if you use these scripts***
