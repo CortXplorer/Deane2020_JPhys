@@ -4,25 +4,6 @@ animals = {'GCR005','GCR007','GCR008','GCR009','GCR012','GCR013',...
 
 dB_lev ={[],[],[],[],'10dB','10dB','10dB','10dB','10dB'};
 
-% No Data:
-% GCR001, GCR002 practice animals; no tonotopy measurement
-% GCR004 epileptic; no surgery
-% GCR006 had too many broken channels (VERIFY THIS) 
-% GCR014 has no anesthetized tonotopy (VERIFY WHY)
-
-% GFM001, GFM007 died from surgical implantation
-% GFM002 showed abmormal hyperactivity and was epileptic; no surgery
-
-% Not Using:
-% GCR003 no signal in anesthetized tonotopy & no supragranular layer
-% GCR010, GCR011 has too much artifact (I have no current method of artifact
-% correction for the acute pipeline)
-
-% GFM003, GFM004, GFM011 too much artifact (possible seizures)
-% GFM006, GFM012, GFM013 too strong/too much artifact/artifact in baseline 
-% GFM010 seemed to have an abnormal CSD - supragranular infection spread 
-% progessively through cortex(noted when animal was sacrificed)
-
 channels = {...
     '[ 1;  2;  3;  4;  5;  6;  7;  8;  9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29;  30; 31; 32]',...
     '[ 1;  2;  3;  4;  5;  6;  7;  8;  9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29;  30; 31; 32]',...
