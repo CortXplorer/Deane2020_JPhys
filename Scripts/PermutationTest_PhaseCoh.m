@@ -25,7 +25,7 @@ end
 cd (homedir); cd Data;
 
 nperms = 1000;
-pthresh = nperms*(0.05/7); % Bonferroni corrected for 7 tests
+pthresh = nperms*(0.05); 
 grpsizeA = 9; grpsizeK = 11;
 
 % frequencies can be found in wtTable.freq{1} to clarify the following
