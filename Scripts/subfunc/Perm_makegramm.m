@@ -16,8 +16,7 @@ function [sig_mass, pVal, permMean, permSTD] = Perm_makegramm(nperms,obsInputMAS
 % .png and .pdf are exported of all gramm plots in the PermuteCSDs figure
 % folder
 
-pthresh = nperms*0.0055; %for sig checks -- Bonferroni correction for 9 tests
-
+pthresh = nperms*0.05; 
 allmass = horzcat(obsInputMASS, permInputMASS);
 allmassmat = cell2mat(allmass);
 
