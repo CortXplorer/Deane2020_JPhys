@@ -10,7 +10,7 @@ ___
 
 #### Necessary to run:
 Raw data for this project can be found at: https://figshare.com/articles/Raw_Data_for_Deane_et_al_2020_JPhys/12083154 (1.8 GB)\
-Animal raw data (e.g "GKD_02_0028") should be placed in ../Deane2020_JPhys/Raw;
+Animal raw data (e.g "GKD_02_0028.mat") should be placed in ../Deane2020_JPhys/Raw;
 
 #### Optional to run from downstream steps:
 Processed data for this project can be found at: https://cloud.lin-magdeburg.de/s/dBGczo86o9o3MK3 (12 GB, very slow download, sorry)\
