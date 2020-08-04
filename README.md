@@ -25,3 +25,7 @@ If animal raw data files are placed correctly in ../Deane2020_JPhys/Raw, running
 ___
 
 ***Please raise an issue in this repository if something is not running. Thank you!***
+
+___
+
+A clone has been created here from [K E Deane's Repository](https://github.com/katdeane/Deane2020_JPhys)
